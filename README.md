@@ -17,7 +17,7 @@ Amo tecnologia e suas ramficações, busco oportunidades para demostrar habilida
 <a href="https://www.instagram.com/levi.holanda07?igsh=MWZvOGQwdWx4Z3JvYg==" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href=""><img loading="lazy"
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-target="_blank">otavio.holanda05@gmail.com</a>
+target="_blank">:otavio.holanda05@gmail.com</a>
 </div>
   
 ## Status GitHub
